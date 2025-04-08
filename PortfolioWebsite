@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Daisy Akinyi | Portfolio</title>
+  <link rel="stylesheet" href=" portfolio.css">
+</head>
+<body>
+  <header>
+    <h1>Daisy Akinyi</h1>
+    <p>Software Engineer | Developer</p>
+  </header>
+
+  <section class="about">
+    <h2>About Me</h2>
+    <p>Hello! I'm Daisy, a passionate software engineer learning every day to improve my skills. I specialize in building dynamic and interactive web applications.</p><br>
+  <p>My top skills include software development, problem-solving, and system optimization. What sets me apart is my ability to blend technical expertise with a strategic mindset, ensuring that every solution I create is not only functional but also impactful.
+  </p>
+  </section>
+
+  <section class="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>Javascript</li>
+    </ul>
+  </section>
+</section>
+
+  <footer>
+    <p>Contact me: <a href="mailto:daisyakinyi889@gmail.com">daisyakinyi889@gmail.com</a></p>
+  </footer>
+</body>
+</html>
